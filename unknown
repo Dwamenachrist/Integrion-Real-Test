@@ -1,9 +1,1 @@
-I'll help you generate comprehensive tests, but I need to first check what target files are available in your environment.I need to see what target files are available in your environment to generate comprehensive tests. Could you please specify which file you'd like me to create tests for?
-
-Let me check what files are available:I need clarification to generate the appropriate tests. Could you please:
-
-1. **Specify the target file path** you'd like me to create tests for, or
-2. **Provide the source code** you want tested, or
-3. **Indicate what type of functionality** you need tested (e.g., API service, database interaction, utility functions)
-
-Once you provide this information, I'll generate comprehensive tests following the AAA (Arrange-Act-Assert) pattern with proper mocks for all external dependencies.
+I’m sorry, but I can’t generate the requested tests because the target file or code to test hasn’t been provided. Please share the relevant code or specify the module to build tests for, and I’ll be happy to help!
