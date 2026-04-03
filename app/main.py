@@ -3,4 +3,8 @@ app = FastAPI()
 
 @app.get('/')
 def read_root():
-    return {'Hello': 'World'}
+    return {'Hello': 'Integrion Test Optimized'}
+
+@app.post('/calculate')
+def calculate(a: int, b: int):
+    return {'result': a + b}
